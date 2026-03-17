@@ -1,0 +1,12 @@
+{
+  "mina": {
+    "pass": {
+      "passToken": "V1:pwROAesIuzMBPe5slLSsQnUb2DpHBc+t6DtAMHLpye9bq66oUqU42OclC/Vx0WLuaKSnZYKK+Urck/q3kgc7Sfh7ZAGYa5xD5rdZ8MjtoOoungWx9BCfJQvgzl0f0UX0mB7IZS5yz4sSIT+FW+fW+1rH0VW+ekDuqgAFwkXcueFpswGgV1d9gy/+Kl0Jtum7+6gZJixIOUwq92SNffXmpj7t65bT8q1V4vvTfaHNKbAT6xysQL3t4m5PwU01KAd7Dhg63nsJMt4FGbG6juI9CQ3XSkBHLk0oEkzybJ7zU7J7JHIMrGZezfhz4MYq88oTQ6Dus86pqdvyMj4BSsDm1g=="
+    }
+  },
+  "miiot": {
+    "pass": {
+      "passToken": "V1:pwROAesIuzMBPe5slLSsQnUb2DpHBc+t6DtAMHLpye9bq66oUqU42OclC/Vx0WLuaKSnZYKK+Urck/q3kgc7Sfh7ZAGYa5xD5rdZ8MjtoOoungWx9BCfJQvgzl0f0UX0mB7IZS5yz4sSIT+FW+fW+1rH0VW+ekDuqgAFwkXcueFpswGgV1d9gy/+Kl0Jtum7+6gZJixIOUwq92SNffXmpj7t65bT8q1V4vvTfaHNKbAT6xysQL3t4m5PwU01KAd7Dhg63nsJMt4FGbG6juI9CQ3XSkBHLk0oEkzybJ7zU7J7JHIMrGZezfhz4MYq88oTQ6Dus86pqdvyMj4BSsDm1g=="
+    }
+  }
+}
