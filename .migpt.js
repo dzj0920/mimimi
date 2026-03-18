@@ -90,9 +90,9 @@ export default {
      * 🏠 账号基本信息（同步自migptgui.json）
      */
     // 小米 ID
-    userId: "", // 替换原987654321,283181252
+    userId: "283181252", // 替换原987654321,283181252
     // 账号密码
-    password: "", // 替换原123456,dzj930920
+    password: "placeholder", // 替换原123456,dzj930920
     // 小爱音箱 DID 或在米家中设置的名称
     did: "小爱音箱mini", // 替换原"小爱音箱Pro"
 
