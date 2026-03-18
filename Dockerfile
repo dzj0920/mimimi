@@ -23,7 +23,7 @@ RUN --mount=type=cache,target=/root/.local/share/pnpm/store \
     pnpm install && pnpm tsup
 
 FROM base as release
-
+COPY .migpt.js .
 COPY app.js .
 COPY package.json .
 COPY --from=dist /app/dist ./dist
