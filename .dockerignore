@@ -12,5 +12,5 @@
 !prisma/migrations
 !prisma/schema.prisma
 !.migpt.js
-
-
+!.mi.json
+!.env
