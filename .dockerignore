@@ -11,6 +11,6 @@
 !prisma/engines
 !prisma/migrations
 !prisma/schema.prisma
-
+!.migpt.js
 
 
